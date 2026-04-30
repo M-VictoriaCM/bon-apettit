@@ -1,0 +1,8 @@
+.container_text{
+    background-color: rgb(0,0,0);
+    animation-delay: 2s;
+}
+.color-font{
+    color:var(--color-first);
+    border-bottom: 1px solid var(--color-second);
+}

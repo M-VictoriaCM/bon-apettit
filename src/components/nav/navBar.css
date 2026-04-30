@@ -1,0 +1,23 @@
+.nav{
+    border-bottom: 1px solid var(--color-acent);
+    
+}
+.nav-text{
+    color:var(--color-second);
+    font-size: 1rem;
+    
+}
+
+.container_logo{
+    padding: .3rem;
+    border-radius:50%;
+    border: 1px solid var(--color-second);
+    display:flex;
+    justify-content: center;
+    align-items: center;
+}
+.icon-menu{
+    color: var(--color-outline);
+    fill:var(--color-outline);
+}
+
